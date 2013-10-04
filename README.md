@@ -1,5 +1,5 @@
-ActiveRecord Sunlight Legislators
-=================================
+ActiveRecord Student Schema
+===========================
 
 To get started:
 
